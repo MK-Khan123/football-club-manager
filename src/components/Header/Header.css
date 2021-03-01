@@ -1,0 +1,8 @@
+.header{
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+}
+.header img{
+    width: 200px;
+    height: 200px;
+}
