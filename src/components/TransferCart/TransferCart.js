@@ -8,6 +8,7 @@ const TransferCart = (props) => {
 
     return (
         <div className='transfer-area'>
+            <h3 style={{textAlign:'center', marginBottom:'20px'}}>Transfer Summary</h3>
             <h4>No. of players selected: {playersAdded.length}</h4>
             <h5>Selected players</h5>
             <p>{playersAdded.map(player => <li>{player.name}</li>)}</p>

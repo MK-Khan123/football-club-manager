@@ -4,104 +4,104 @@
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
         "name": "Cristiano Ronaldo",
         "club": "Juventus F.C.",
-        "salary": 4782145
+        "salary": 100000
     },
     {
         "id": 2,
         "img": "http://t2.gstatic.com/images?q=tbn:ANd9GcShYakq_Q2pA7CuodPxhvZBkFDTpu29LLcTGUTh-mGgv7ghSt0yN82cR36SLlVT",
         "name": "Paulo Dybala",
         "club": "Juventus F.C.",
-        "salary": 3053566
+        "salary": 80000
     },
     {
         "id": 3,
         "img": "http://t2.gstatic.com/images?q=tbn:ANd9GcSWN5XPatZ37_2PoieChI0ZlBvPtzx-HiEkEy4tw-ZtfZM7Qm1brTy46lG2etDo",
         "name": "Gianluigi Buffon",
         "club": "Juventus F.C.",
-        "salary": 2790197
+        "salary": 90000
     },
     {
         "id": 4,
         "img": "http://www.gstatic.com/tv/thumb/persons/1053911/1053911_v9_ba.jpg",
         "name": "Sergio Ramos",
         "club": "Real Madrid C.F.",
-        "salary": 7185129
+        "salary": 70000
     },
     {
         "id": 5,
         "img": "http://t0.gstatic.com/images?q=tbn:ANd9GcTjVi_AAcsDbAYbtH26dGbAVhUbNeBZMdKqL91BhvcHahhDq7g9WZ-vzXRHCvLg",
         "name": "Karim Benzema",
         "club": "Real Madrid C.F.",
-        "salary": 4670758
+        "salary": 45000
     },
     {
         "id": 6,
         "img": "http://t1.gstatic.com/images?q=tbn:ANd9GcTV6-mta-pAnpg5eWgZHDfsnnyyYbt__gzeDJivZ9XNzXcGqjfaoIR_Oe2NyTLn",
         "name": "Eden Hazard",
         "club": "Real Madrid C.F.",
-        "salary": 8217044
+        "salary": 85000
     },
     {
         "id": 7,
         "img": "https://s.france24.com/media/display/fc38b2bc-b26c-11ea-b7b5-005056a964fe/w:1280/p:1x1/2020-06-19T122447Z_1857599552_RC2CCH9IL1BR_RTRMADP_3_SOCCER-SPAIN-FCB-NEYMAR.JPG",
         "name": "Neymar",
         "club": "Paris Saint-Germain F.C.",
-        "salary": 2074866
+        "salary": 20000
     },
     {
         "id": 8,
         "img": "http://t1.gstatic.com/images?q=tbn:ANd9GcTM5FkM9AiLyCm0KVWVMvZYMqNq5Hml9wL12LE6artP1Uyz5_tuOyEJBVeSuapg",
         "name": "Kylian Mbappe",
         "club": "Paris Saint-Germain F.C.",
-        "salary": 4288305
+        "salary": 40000
     },
     {
         "id": 9,
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg",
         "name": "Sergio Aguero",
         "club": "Manchester City F.C.",
-        "salary": 6351760
+        "salary": 60000
     },
     {
         "id": 10,
         "img": "http://www.gstatic.com/tv/thumb/persons/983712/983712_v9_ba.jpg",
         "name": "Lionel Messi",
         "club": "FC Barcelona",
-        "salary": 1456057
+        "salary": 100000
     },
     {
         "id": 11,
         "img": "http://t3.gstatic.com/images?q=tbn:ANd9GcTGp5_4Akz95vonXPLprZ4nWyZVZmBbwYNt2DMq_sYnITGPfpS66vgyWZ17xJHc",
         "name": "Antoine Griezmann",
         "club": "FC Barcelona",
-        "salary": 3149104
+        "salary": 30000
     },
     {
         "id": 12,
         "img": "http://t1.gstatic.com/images?q=tbn:ANd9GcTUjKO6U7XmPsA3DIlz2cOkFbDOMrgWSkS6Q4EVE90Gff5-S3HL5rsshuInx7Qv",
         "name": "Marco Reus",
         "club": "Borussia Dortmund",
-        "salary": 8938065
+        "salary": 25000
     },
     {
         "id": 13,
         "img": "https://i.guim.co.uk/img/media/f6dbb2a099c5400842157a4d54ea80e1ba871c13/0_76_2760_1656/master/2760.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=afaddec9db79b5833c86c45881eb32e6",
         "name": "Zlatan Ibrahimovic",
         "club": "A.C. Milan",
-        "salary": 3257197
+        "salary": 95000
     },
     {
         "id": 14,
         "img": "http://t0.gstatic.com/images?q=tbn:ANd9GcRLBodN6o7xWrW11cdqHzrpG_EBiVIE-fzMIN-R-m9TiUHNFjlywe-cNRgFghGe",
         "name": "Romelu Lukaku",
         "club": "Inter Milan",
-        "salary": 4048274
+        "salary": 55000
     },
     {
         "id": 15,
         "img": "http://t2.gstatic.com/images?q=tbn:ANd9GcSBhSYnVX6zZOxx2O7l8SjRufK-z_p4WV_v1-rGoiYyLfNBELpdhPsZ_UNzI1Ob",
         "name": "Angel Di Maria",
         "club": "Paris Saint-Germain F.C.",
-        "salary": 4224954
+        "salary": 75000
     }
 ]
