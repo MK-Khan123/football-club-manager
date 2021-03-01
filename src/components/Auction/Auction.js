@@ -6,11 +6,11 @@ import './Auction.css';
 
 const Auction = () => {
     const [playerList, setPlayerList] = useState([]);
-    
+
     useEffect(() => {
         setPlayerList(mockData);
     }, []);
-    
+
     const [player, setPlayer] = useState([]);
 
     const handleAddedPlayer = (addedPlayer) => {
