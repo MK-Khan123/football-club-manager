@@ -3,7 +3,6 @@ import './TransferCart.css';
 
 const TransferCart = (props) => {
     const playersAdded = props.playersAdded;
-    console.log(playersAdded);
     const totalSalary = playersAdded.reduce((total, player) => total + player.salary, 0);
 
     return (
